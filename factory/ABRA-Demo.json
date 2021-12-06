@@ -1,0 +1,9 @@
+{
+	"name": "ABRA-Demo",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13e0fe38-2873-46db-8343-bf216cdaf3c4",
+		"tenantId": "f1502c4c-ee2e-411c-9715-c855f6753b84"
+	}
+}
