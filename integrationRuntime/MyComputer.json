@@ -1,0 +1,6 @@
+{
+	"name": "MyComputer",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
