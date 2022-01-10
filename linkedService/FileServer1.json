@@ -1,0 +1,17 @@
+{
+	"name": "FileServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Tali\\files for testing",
+			"userId": "abra\\tali.norock",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI5ZTUzMDRiZi1mMGQyLTQ3ZjMtOGY5MC1hNmE1YTZiOTQ0Y2YiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationruntimeMyComputer",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
